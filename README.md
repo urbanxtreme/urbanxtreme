@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=urbanxtreme" alt="urbanxtreme" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+<p align="left"> <a href="https://twitter.com/urbanxtreme_19" target="blank"><img src="https://img.shields.io/twitter/follow/urbanxtreme_19?logo=twitter&style=for-the-badge" alt="urbanxtreme_19" /></a> </p>
 
 - 🌱 I’m currently learning **Flutter**
 
@@ -23,8 +23,13 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://twitter.com/urbanxtreme_19" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="urbanxtreme_19" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/sreehari s" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sreehari s" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/urban xtreme" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="urban xtreme" height="30" width="40" /></a>
+<a href="https://kaggle.com/sreeeeeeeee" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="sreeeeeeeee" height="30" width="40" /></a>
+<a href="https://instagram.com/_srs_hari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_srs_hari" height="30" width="40" /></a>
 <a href="https://www.hackerearth.com/@sreehari s" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@sreehari s" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/skrhari2020" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="skrhari2020" height="30" width="40" /></a>
 <a href="https://discord.gg/urbanxtreme_45159" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="urbanxtreme_45159" height="30" width="40" /></a>
 </p>
 
