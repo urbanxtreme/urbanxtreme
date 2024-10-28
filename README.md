@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sreehari S</h1>
-<h3 align="center">BTech CSE Student | Aspiring ISRO Engineer | PR & Social Media Lead | Passionate About Tech and Music</h3>
+<h3 align="center">BTech CSE Student | Aspiring ISRO Engineer | Passionate About Tech and Music</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=urbanxtreme&label=Profile%20views&color=0e75b6&style=flat" alt="urbanxtreme" />
