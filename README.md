@@ -84,6 +84,7 @@
 </div>
 <br><br>
 
+<h3 align="center">Connect with me</h3>
 <div align="center">
   <a href="https://www.instagram.com/_srs_hari/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="48" height="36" alt="instagram logo" />
