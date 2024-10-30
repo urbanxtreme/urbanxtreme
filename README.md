@@ -1,25 +1,17 @@
-<div align="center">
-  <img src="https://profile-counter.glitch.me/urbanxtreme/count.svg?" />
-</div>
-
 ###
-
 <h1 align="center">Hi 👋, I'm Sreehari S</h1>
+<h3 align="center"><strong>BTech CSE Student | Aspiring ISRO Engineer | Passionate About Tech and Music</strong></h3>
 
-###
-
-<h2 align="center">BTech CSE Student | Aspiring ISRO Engineer | Passionate About Tech and Music</h2>
-
-###
+![Profile Views](https://komarev.com/ghpvc/?username=urbanxtreme&label=Profile%20Views&color=blueviolet&style=plastic)
 
 <p align="left">
-  🌱 I’m currently learning Flutter<br>
-  👯 I’m looking to collaborate on AIML<br>
+  🌱 I’m currently learning <strong>Flutter</strong><br>
+  👯 I’m looking to collaborate on <strong>AIML</strong><br>
   👨‍💻 All of my projects are available on <a href="https://github.com/urbanxtreme">GitHub</a><br>
-  💬 Ask me about Python, MySQL<br>
+  💬 Ask me about <strong>Python, MySQL</strong><br>
   📫 Reach me at <a href="mailto:skrhari2020@gmail.com">skrhari2020@gmail.com</a><br>
   📄 View my experiences in my <a href="https://1drv.ms/b/c/93d2ec1b295f6d10/AUFtTXmI_d5AjKt-vnDTbxo?e=FnzezU">Resume</a><br>
-  ⚡ Fun fact: I do music mixing and mastering
+  ⚡ Fun fact: <strong>I do music mixing and mastering</strong>
 </p>
 
 ###
