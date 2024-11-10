@@ -5,7 +5,7 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=urbanxtreme&label=Profile%20Views&color=blueviolet&style=plastic)
 
 <p align="left">
-  🌱 I’m currently learning <strong>Flutter</strong><br>
+  🌱 I’m currently learning <strong>MongoDB</strong><br>
   👯 I’m looking to collaborate on <strong>AIML</strong><br>
   👨‍💻 All of my projects are available on <a href="https://github.com/urbanxtreme">GitHub</a><br>
   💬 Ask me about <strong>Python, MySQL</strong><br>
