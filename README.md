@@ -14,7 +14,7 @@
   ⚡ Fun fact: <strong>I do music mixing and mastering</strong>
 </p>
 
-<a href="https://gitroll.io/profile/uKhZAlWqAIKhfKFjzJ14NnjtuLls2" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/uKhZAlWqAIKhfKFjzJ14NnjtuLls2?theme=dark" alt="GitRoll Profile Badge"/></a>
+<a href="https://gitroll.io/profile/uKhZAlWqAIKhfKFjzJ14NnjtuLls2" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/uKhZAlWqAIKhfKFjzJ14NnjtuLls2?theme=solarizedLight" alt="GitRoll Profile Badge"/></a>
 
 ###
 
