@@ -151,6 +151,18 @@ Telescope, featuring interactive learning and quizzes.
 
 </div>
 
+
+## 🔥 Contribution Streak
+
+<div align="center">
+
+<a href="https://git.io/streak-stats">
+  <img src="https://streak-stats.demolab.com/?user=urbanxtreme&theme=tokyonight&hide_border=true&background=0D1117&ring=A78BFA&fire=F97316&currStreakLabel=67E8F9&sideLabels=67E8F9&dates=94A3B8" width="75%" alt="Sreehari's GitHub Streak"/>
+</a>
+
+</div>
+
+
 ## 🎧 Beyond the terminal
 
 Music is my other creative playground. I enjoy producing music,
