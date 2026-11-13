@@ -1,9 +1,9 @@
 name: Generate GitHub Profile Cards
 
 on:
+  workflow_dispatch:
   schedule:
     - cron: "17 0 * * *"
-  workflow_dispatch:
 
 permissions:
   contents: write
@@ -12,15 +12,20 @@ jobs:
   generate:
     runs-on: ubuntu-latest
     steps:
+      - name: Checkout profile repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
       - name: Generate profile summary cards
         uses: vn7n24fzkq/github-profile-summary-cards@release
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
-          USERNAME: ${{ github.repository_owner }}
-          BRANCH_NAME: "main"
-          UTC_OFFSET: 5.5
+          USERNAME: urbanxtreme
+          BRANCH_NAME: main
+          UTC_OFFSET: "5.5"
           AUTO_PUSH: true
-          THEME: "tokyonight"
-          ANIMATION: "sequence"
+          THEME: tokyonight
+          ANIMATION: sequence
           DURATION: "3"
