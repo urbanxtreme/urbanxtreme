@@ -195,3 +195,17 @@ me a different way to think about patterns, detail and creativity.
 ✨
 
 </div>
+
+<br/>
+
+<div align="center">
+
+## 🐍 My Contribution Journey
+
+<img src="https://raw.githubusercontent.com/urbanxtreme/urbanxtreme/output/snake.svg" alt="GitHub Contribution Snake Animation" width="100%"/>
+
+<br/>
+
+<i>Every square represents a little progress. Keep building! 💜</i>
+
+</div>
