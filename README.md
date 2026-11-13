@@ -191,9 +191,6 @@ me a different way to think about patterns, detail and creativity.
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=130&section=footer&color=0:06B6D4,55:312E81,100:09090F" width="100%" alt="Footer banner">
 
-**Thanks for stopping by. Keep learning, keep building, keep creating.**
-✨
-
 </div>
 
 <br/>
