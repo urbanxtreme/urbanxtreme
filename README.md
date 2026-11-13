@@ -93,13 +93,7 @@ An emergency-reporting application concept for submitting incidents and
 managing emergency information.  
 `Flask` `Python` `MySQL`
 
-### 🍱 PAVI — Food Redistribution
-
-A project concept focused on connecting food availability with
-redistribution to help reduce food waste.  
-`Python` `Tkinter` `MySQL`
-
-### 🏠 Smart Home Dashboard
+### 🏠 PAVI - Personal Automated Virtual Intelligence
 
 A web dashboard concept for viewing and managing smart-home
 information.  
