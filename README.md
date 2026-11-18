@@ -183,7 +183,7 @@ me a different way to think about patterns, detail and creativity.
 
 <br><br>
 
-<a href="https://1drv.ms/b/c/93d2ec1b295f6d10/AUFtTXmI_d5AjKt-vnDTbxo?e=FnzezU"><img src="https://img.shields.io/badge/Resume-View%20CV-7C3AED?style=for-the-badge&logo=readthedocs&logoColor=white" alt="Resume"></a>
+<a href="https://drive.google.com/file/d/1ewxhDE-DBCh_bPr9IndceXBCNDLgx8c8/view?usp=sharing"><img src="https://img.shields.io/badge/Resume-View%20CV-7C3AED?style=for-the-badge&logo=readthedocs&logoColor=white" alt="Resume"></a>
 
 </div>
 
